@@ -6,3 +6,12 @@ p{
     font-family: 'Noto Serif JP', sans-serif;}
 ul{
     font-family: 'Noto Serif JP', sans-serif;}
+body{
+    background-color: lightcyan;
+}
+section{
+    position: fixed;
+    left: 500px; 
+    bottom: 300px;
+}
+
