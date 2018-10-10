@@ -10,8 +10,8 @@ body{
     background-color: lightcyan;
 }
 section{
-    position: relative;
+    position: fixed;
     left: 500px; 
-    bottom: 300px;
+    bottom: 500px;
 }
 
