@@ -1,4 +1,4 @@
-h1,h2{
+h1,h2 { 
     font-family: 'PT Serif', serif;
 }
 
@@ -11,9 +11,8 @@ p {
 }
 
 .border {
-    border-style: dotted solid;
-    border-color: darkred;
-    border-width: 5px;
+    border-top: dotted darkred 5px;
+    
 }
 
 ul {  
